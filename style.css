@@ -46,6 +46,17 @@ h1 {
     height: auto;
 }
 
+.picture {
+
+    border-bottom: solid 3px #ffffff;
+}
+.picture img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
 /* article */
 article {
     padding: 32px 16px;
